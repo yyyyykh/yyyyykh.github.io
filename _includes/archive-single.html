@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.award %}
           <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
-            <span style="color: #8400ff">{{ post.award }}</span><br>
+            <span style="color: #00eeff">{{ post.award }}</span><br>
             [<a href=" {{ post.paperurl }} "><u>proc</u></a>] [<a href=" {{ post.arxivurl }} "><u>arXiv</u></a>]</p>
         {% elsif post.collection == 'publications' and post.paperurl %}
           <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
