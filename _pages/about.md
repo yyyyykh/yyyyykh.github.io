@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). Previously, I graduated from Yao Class at Tsinghua University.
+I am a first-year Ph.D. student in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley, advised by [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). Previously, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
 
 I am broadly interested in the theoretical foundations of machine learning and sequential decision making.
 
