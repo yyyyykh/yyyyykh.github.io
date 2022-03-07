@@ -46,7 +46,7 @@
             [<a href=" {{ post.paperurl }} ">proc</a>] [<a href=" {{ post.arxivurl }} "><u>arXiv</u></a>]</p>
         {% elsif post.collection == 'publications' and post.paperurl %}
           <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
-            [<a href=" {{ post.paperurl }} ">proc</a>] [<a href=" {{ post.arxivurl }} "><u>arXiv</u></a>]</p>
+            [<a href=" {{ post.paperurl }} ">proc</a>] [<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>
         {% elsif post.collection == 'publications' and post.arxivurl %}
             <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
               [<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>
