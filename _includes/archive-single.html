@@ -41,7 +41,9 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.award %}
-          <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
+          <p>{{ post.authors }}<br><i>{{ post.venue }}</i>
+            <!-- , {{ post.date | default: "1900-01-01" | date: "%Y" }}  -->
+            <br>
             <span style="color: #006eff">{{ post.award }}</span><br>
             [<a href=" {{ post.paperurl }} ">proc</a>] [<a href=" {{ post.arxivurl }} ">arXiv</a>]</p>
         {% elsif post.collection == 'publications' and post.paperurl %}
