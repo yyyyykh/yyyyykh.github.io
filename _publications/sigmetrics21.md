@@ -8,7 +8,7 @@ authors: Isaac Grosof, <strong>Kunhe Yang</strong>, Ziv Scully, Mor Harchol-Balt
 venue: 'ACM Sigmetrics'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3410220.3460102'
 arxivurl: 'https://arxiv.org/abs/2106.01492'
-award: 'Best Paper'
+award: 'Sigmetrics 2021 Best Paper Award'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
