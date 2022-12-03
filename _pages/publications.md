@@ -15,19 +15,15 @@ author_profile: true
 ## Oracle-Efficient Online Learning for Smoothed Adversaries
 Nika Haghtalab\*, Yanjun Han\*, Abhishek Shetty\*, **Kunhe Yang**\*  
 *In Proceedings of the 35th Annual Conference on Neural Information Processing Systems (Neurips 2022)*  
-<span style="color:blue">
-Oral Presentation  
-</span>  
-[[arXiv]](https://arxiv.org/abs/2202.08549)
+[[arXiv]](https://arxiv.org/abs/2202.08549)  
+<font color="purple">Oral Presentation</font>   
 
 
 ## Nudge: Stochastically Improving upon FCFS
 Isaac Grosof, **Kunhe Yang**, Ziv Scully, Mor Harchol-Balter  
 *In Proceedings of the ACM Measurement and Analysis of Computer Systems (SIGMETRICS 2021)*  
-<span style="color:blue">
-Sigmetrics 2021 Best Paper Award  
-</span>  
-[[Proc]](https://dl.acm.org/doi/abs/10.1145/3410220.3460102) [[arXiv]](https://arxiv.org/abs/2106.01492)
+[[Proc]](https://dl.acm.org/doi/abs/10.1145/3410220.3460102) [[arXiv]](https://arxiv.org/abs/2106.01492)  
+<span style="color:blue">Sigmetrics 2021 Best Paper Award</span>  
 
 ## Q-learning with Logarithmic Regret
 **Kunhe Yang**, Lin Yang, Simon Du  
