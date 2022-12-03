@@ -16,7 +16,7 @@ author_profile: true
 Nika Haghtalab\*, Yanjun Han\*, Abhishek Shetty\*, **Kunhe Yang**\*  
 *In Proceedings of the 35th Annual Conference on Neural Information Processing Systems (Neurips 2022)*  
 [[arXiv]](https://arxiv.org/abs/2202.08549)  
-<font color="purple">Oral Presentation</font>   
+<span style="color:blue">Oral Presentation</span>
 
 
 ## Nudge: Stochastically Improving upon FCFS
