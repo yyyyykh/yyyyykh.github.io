@@ -23,10 +23,10 @@ author_profile: true
 Isaac Grosof, **Kunhe Yang**, Ziv Scully, Mor Harchol-Balter  
 *In Proceedings of the ACM Measurement and Analysis of Computer Systems* (SIGMETRICS 2021)  
 <span style="color:blue">Sigmetrics 2021 Best Paper Award</span>  
-[[paper](https://dl.acm.org/doi/abs/10.1145/3410220.3460102)] [[arXiv](https://arxiv.org/abs/2106.01492)]  
+[[paper](https://dl.acm.org/doi/abs/10.1145/3410220.3460102), [arXiv](https://arxiv.org/abs/2106.01492)]  
 
 
 ## Q-learning with Logarithmic Regret
 **Kunhe Yang**, Lin Yang, Simon Du  
 *In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics* (AISTATS 2021)  
-[[paper](https://proceedings.mlr.press/v130/yang21b.html)] [[arXiv](https://arxiv.org/abs/2006.09118)]
+[[paper](https://proceedings.mlr.press/v130/yang21b.html), [arXiv](https://arxiv.org/abs/2006.09118)]
