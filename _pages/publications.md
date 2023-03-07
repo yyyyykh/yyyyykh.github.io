@@ -16,6 +16,12 @@ author_profile: true
 *Preprint*  
 [[arXiv](https://arxiv.org/abs/2302.12355)]  
 
+## Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian
+Paria Rashidinejad, Hanlin Zhu, **Kunhe Yang**, Stuart Russell, Jiantao Jiao  
+*In Proceedings of the 11th International Conference on Learning Representations* (ICLR 2023)  
+<span style="color:blue">Selected for ICLR spotlight presentation</span>  
+[[arXiv](https://arxiv.org/abs/2211.00716)]  
+
 ## Oracle-Efficient Online Learning for Smoothed Adversaries
 ($\alpha$-$\beta$) Nika Haghtalab, Yanjun Han, Abhishek Shetty, **Kunhe Yang**  
 *In Proceedings of the 36th Annual Conference on Neural Information Processing Systems* (NeurIPS 2022)  
