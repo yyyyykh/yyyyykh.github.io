@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Fundamental Bounds on Online Strategic Classification
+($\alpha$-$\beta$) Saba Ahmadi, Avrim Blum, **Kunhe Yang**
+*Preprint*
+[[arXiv](https://arxiv.org/abs/2302.12355)]
 
 ## Oracle-Efficient Online Learning for Smoothed Adversaries
 ($\alpha$-$\beta$) Nika Haghtalab, Yanjun Han, Abhishek Shetty, **Kunhe Yang**  
