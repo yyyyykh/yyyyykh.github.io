@@ -23,7 +23,7 @@ Paria Rashidinejad, Hanlin Zhu, <u>Kunhe Yang</u>, Stuart Russell, Jiantao Jiao
 [[arXiv](https://arxiv.org/abs/2211.00716)]  
 
 ### Oracle-Efficient Online Learning for Smoothed Adversaries
-($\alpha$-$\beta$) Nika Haghtalab, Yanjun Han, Abhishek Shetty, <u>Kunhe Yang</u>  
+(α-β) Nika Haghtalab, Yanjun Han, Abhishek Shetty, <u>Kunhe Yang</u>  
 *In Proceedings of the 36th Annual Conference on Neural Information Processing Systems* (NeurIPS 2022)  
 <span style="color:blue">Selected for NeurIPS oral presentation</span>  
 [[arXiv](https://arxiv.org/abs/2202.08549)]  
