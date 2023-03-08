@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ### Fundamental Bounds on Online Strategic Classification
-(&#945-&#946) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
+(α-β) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
 *Preprint*  
 [[arXiv](https://arxiv.org/abs/2302.12355)]  
 
