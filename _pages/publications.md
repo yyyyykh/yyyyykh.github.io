@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ### Fundamental Bounds on Online Strategic Classification
-(α-β) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
+(𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
 *Preprint*  
 [[arXiv](https://arxiv.org/abs/2302.12355)]  
 
@@ -23,7 +23,7 @@ Paria Rashidinejad, Hanlin Zhu, <u>Kunhe Yang</u>, Stuart Russell, Jiantao Jiao
 [[arXiv](https://arxiv.org/abs/2211.00716)]  
 
 ### Oracle-Efficient Online Learning for Smoothed Adversaries
-(α-β) Nika Haghtalab, Yanjun Han, Abhishek Shetty, <u>Kunhe Yang</u>  
+(𝛼−𝛽) Nika Haghtalab, Yanjun Han, Abhishek Shetty, <u>Kunhe Yang</u>  
 *In Proceedings of the 36th Annual Conference on Neural Information Processing Systems* (NeurIPS 2022)  
 <span style="color:blue">Selected for NeurIPS oral presentation</span>  
 [[arXiv](https://arxiv.org/abs/2202.08549)]  
