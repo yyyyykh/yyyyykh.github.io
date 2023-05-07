@@ -13,7 +13,7 @@ author_profile: true
 
 ### Fundamental Bounds on Online Strategic Classification
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
-*Preprint*  
+*To Appear at the 24th ACM Conference on Economics and Computation* (EC 2023)  
 [[arXiv](https://arxiv.org/abs/2302.12355)]  
 
 ### Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian
