@@ -13,20 +13,20 @@ author_profile: true
 
 ### Fundamental Bounds on Online Strategic Classification
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
-*To Appear at the 24th ACM Conference on Economics and Computation* (EC 2023)  
-[[arXiv](https://arxiv.org/abs/2302.12355)]  
+*In Proceedings of the 24th ACM Conference on Economics and Computation* (EC 2023)  
+[[paper](https://dl.acm.org/doi/10.1145/3580507.3597818), [arXiv](https://arxiv.org/abs/2302.12355)]  
 
 ### Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian
 Paria Rashidinejad, Hanlin Zhu, <u>Kunhe Yang</u>, Stuart Russell, Jiantao Jiao  
 *In Proceedings of the 11th International Conference on Learning Representations* (ICLR 2023)  
 <span style="color:blue">Selected for ICLR spotlight presentation</span>  
-[[arXiv](https://arxiv.org/abs/2211.00716)]  
+[[paper](https://openreview.net/pdf?id=ZsvWb6mJnMv), [arXiv](https://arxiv.org/abs/2211.00716)]  
 
 ### Oracle-Efficient Online Learning for Smoothed Adversaries
 (𝛼−𝛽) Nika Haghtalab, Yanjun Han, Abhishek Shetty, <u>Kunhe Yang</u>  
 *In Proceedings of the 36th Annual Conference on Neural Information Processing Systems* (NeurIPS 2022)  
 <span style="color:blue">Selected for NeurIPS oral presentation</span>  
-[[arXiv](https://arxiv.org/abs/2202.08549)]  
+[[paper](https://papers.nips.cc/paper_files/paper/2022/hash/1a04df6a405210aab4986994b873db9b-Abstract-Conference.html), [arXiv](https://arxiv.org/abs/2202.08549)]  
 
 
 ### Nudge: Stochastically Improving upon FCFS
