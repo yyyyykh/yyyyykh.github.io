@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
 ### Fundamental Bounds on Online Strategic Classification
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
 *In Proceedings of the 24th ACM Conference on Economics and Computation* (EC 2023)  
