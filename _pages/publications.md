@@ -8,7 +8,7 @@ author_profile: true
 
 # Preprints
 
-**Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents**
+**Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents**  
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, <u>Kunhe Yang</u>  
 [[arXiv](https://arxiv.org/abs/2306.02704)]  
 
