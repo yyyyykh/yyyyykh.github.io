@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+"𝛼−𝛽" indicates alphabetical author order.
 
 ### Fundamental Bounds on Online Strategic Classification
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
