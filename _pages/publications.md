@@ -6,6 +6,14 @@ author_profile: true
 ---
 "𝛼−𝛽" indicates alphabetical author order.
 
+# Preprints
+
+### Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents
+(𝛼−𝛽) Nika Haghtalab, Chara Podimata, <u>Kunhe Yang</u>  
+[[arXiv](https://arxiv.org/abs/2306.02704)]  
+
+# Publications
+
 ### Fundamental Bounds on Online Strategic Classification
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
 *In Proceedings of the 24th ACM Conference on Economics and Computation* (EC 2023)  

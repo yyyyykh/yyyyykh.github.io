@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kunhe Yang"
 title_separator          : "-"
-name                     : &name "Kunhe Yang (杨坤禾)"
+name                     : &name "Kunhe Yang"
 description              : &description "personal description"
 url                      : https://yyyyykh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kunhe Yang"
+  name             : "Kunhe Yang (杨坤禾)"
   avatar           : "headshot.JPG"
   bio              : "Ph.D. Student at UC Berkeley, Department of Electrical Engineering and Computer Sciences"
   location         : "Berkeley, CA"
