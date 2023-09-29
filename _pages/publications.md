@@ -6,13 +6,14 @@ author_profile: true
 ---
 "𝛼−𝛽" indicates alphabetical author order.
 
-# Preprints
+<!-- # Preprints -->
 
 **Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents**  
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, <u>Kunhe Yang</u>  
+*To appear at the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
+<span style="color:blue">Selected for NeurIPS spotlight presentation</span>  
 [[arXiv](https://arxiv.org/abs/2306.02704)]  
-
-# Publications
+<!-- # Publications -->
 
 **Fundamental Bounds on Online Strategic Classification**  
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
