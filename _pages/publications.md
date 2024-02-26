@@ -22,7 +22,7 @@ author_profile: true
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, <u>Kunhe Yang</u>  
 *In Proceedings of the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
 <span style="color:blue">Selected for NeurIPS spotlight presentation</span>  
-[[Proc.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)] [arXiv](https://arxiv.org/abs/2306.02704)] 
+[[Proc.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2306.02704)] 
 
 **Fundamental Bounds on Online Strategic Classification**  
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
