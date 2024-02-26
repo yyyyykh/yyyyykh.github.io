@@ -6,14 +6,23 @@ author_profile: true
 ---
 "𝛼−𝛽" indicates alphabetical author order.
 
-<!-- # Preprints -->
+# Preprints
+
+**Platforms for Efficient and Incentive-Aware Collaboration**  
+(𝛼−𝛽) Nika Haghtalab, Mingda Qiao, <u>Kunhe Yang</u>  
+[[arXiv](https://arxiv.org/abs/2402.15169)]
+
+**Computational Aspects of Bayesian Persuasion under Approximate Best Response**  
+(𝛼−𝛽) <u>Kunhe Yang</u>, Hanrui Zhang  
+[[arXiv](https://arxiv.org/abs/2402.07426)]  
+
+# Publications
 
 **Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents**  
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, <u>Kunhe Yang</u>  
-*To appear at the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
+*In Proceedings of the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
 <span style="color:blue">Selected for NeurIPS spotlight presentation</span>  
-[[arXiv](https://arxiv.org/abs/2306.02704)]  
-<!-- # Publications -->
+[[Proc.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)] [arXiv](https://arxiv.org/abs/2306.02704)] 
 
 **Fundamental Bounds on Online Strategic Classification**  
 (𝛼−𝛽) Saba Ahmadi, Avrim Blum, <u>Kunhe Yang</u>  
