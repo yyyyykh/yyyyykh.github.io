@@ -41,13 +41,11 @@ Paria Rashidinejad, Hanlin Zhu, Kunhe Yang, Stuart Russell, Jiantao Jiao
 <span style="color:blue">Selected for NeurIPS oral presentation</span>  
 [[Proc.](https://papers.nips.cc/paper_files/paper/2022/hash/1a04df6a405210aab4986994b873db9b-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2202.08549)]  
 
-
 **Nudge: Stochastically Improving upon FCFS**  
 Isaac Grosof, Kunhe Yang, Ziv Scully, Mor Harchol-Balter  
 *In Proceedings of the ACM Measurement and Analysis of Computer Systems* (SIGMETRICS 2021)  
 <span style="color:blue">Sigmetrics 2021 Best Paper Award</span>  
 [[Proc.](https://dl.acm.org/doi/abs/10.1145/3410220.3460102)] [[arXiv](https://arxiv.org/abs/2106.01492)]  
-
 
 **Q-learning with Logarithmic Regret**  
 Kunhe Yang, Lin Yang, Simon Du  
