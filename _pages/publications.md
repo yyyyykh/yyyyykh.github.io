@@ -8,6 +8,14 @@ author_profile: true
 
 # Preprints
 
+**Truthfulness of Calibration Measures**  
+(𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang, Eric Zhao  
+[[arXiv](https://arxiv.org/abs/2407.13979)]
+
+**Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification**  
+(𝛼−𝛽) Saba Ahmadi, Kunhe Yang, Hanrui Zhang  
+[[arXiv](https://arxiv.org/abs/2407.11619)]
+
 **Platforms for Efficient and Incentive-Aware Collaboration**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
 [[arXiv](https://arxiv.org/abs/2402.15169)]
