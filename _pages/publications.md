@@ -18,6 +18,7 @@ author_profile: true
 
 **Platforms for Efficient and Incentive-Aware Collaboration**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
+*To be presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
 [[arXiv](https://arxiv.org/abs/2402.15169)]
 
 **Computational Aspects of Bayesian Persuasion under Approximate Best Response**  
@@ -30,6 +31,7 @@ author_profile: true
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, Kunhe Yang  
 *In Proceedings of the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
 <span style="color:blue">Selected for NeurIPS spotlight presentation</span>  
+*To be presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
 [[Proc.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2306.02704)] 
 
 **Fundamental Bounds on Online Strategic Classification**  
