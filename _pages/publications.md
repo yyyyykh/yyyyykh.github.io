@@ -8,6 +8,10 @@ author_profile: true
 
 # Preprints
 
+**Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interactions**  
+(𝛼−𝛽) Nivasini Ananthakrishnan, Nika Haghtalab, Chara Podimata, Kunhe Yang  
+[[arXiv](https://arxiv.org/abs/2408.08272)]
+
 **Truthfulness of Calibration Measures**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang, Eric Zhao  
 [[arXiv](https://arxiv.org/abs/2407.13979)]
