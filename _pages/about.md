@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year Ph.D. student in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley, where I am fortunate to be advised by [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). Previously, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
+Hi! I am a third-year Ph.D. student in the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley, where I am fortunate to be advised by [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). During summer 2022, I was a visiting student at TTIC hosted by [Avrim Blum](https://home.ttic.edu/~avrim/). Previously, I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
 
 I am broadly interested in the intersection of machine learning and algorithmic game theory, focusing on the theoretical aspects of learning, interactions, and information transmission with strategic agents.
 
