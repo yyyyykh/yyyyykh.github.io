@@ -8,33 +8,37 @@ author_profile: true
 
 # Preprints
 
+**Platforms for Efficient and Incentive-Aware Collaboration**  
+(𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
+*Presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
+[[arXiv](https://arxiv.org/abs/2402.15169)]
+
+# Publications
+
 **Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interactions**  
 (𝛼−𝛽) Nivasini Ananthakrishnan, Nika Haghtalab, Chara Podimata, Kunhe Yang  
+*To appear at the 38th Annual Conference on Neural Information Processing Systems* (NeurIPS 2024)  
 [[arXiv](https://arxiv.org/abs/2408.08272)]
 
 **Truthfulness of Calibration Measures**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang, Eric Zhao  
+*To appear at the 38th Annual Conference on Neural Information Processing Systems* (NeurIPS 2024)  
 [[arXiv](https://arxiv.org/abs/2407.13979)]
 
 **Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification**  
 (𝛼−𝛽) Saba Ahmadi, Kunhe Yang, Hanrui Zhang  
+*To appear at the 38th Annual Conference on Neural Information Processing Systems* (NeurIPS 2024)  
 [[arXiv](https://arxiv.org/abs/2407.11619)]
-
-**Platforms for Efficient and Incentive-Aware Collaboration**  
-(𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
-*To be presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
-[[arXiv](https://arxiv.org/abs/2402.15169)]
 
 **Computational Aspects of Bayesian Persuasion under Approximate Best Response**  
 (𝛼−𝛽) Kunhe Yang, Hanrui Zhang  
+*To appear at the 38th Annual Conference on Neural Information Processing Systems* (NeurIPS 2024)  
 [[arXiv](https://arxiv.org/abs/2402.07426)]  
-
-# Publications
 
 **Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents**  
 (𝛼−𝛽) Nika Haghtalab, Chara Podimata, Kunhe Yang  
 *In Proceedings of the 37th Annual Conference on Neural Information Processing Systems* (NeurIPS 2023)  
-*To be presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
+*Presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
 <span style="color:blue">Selected for NeurIPS spotlight presentation</span>  
 [[arXiv](https://arxiv.org/abs/2306.02704)] [[conference version](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html)]  
 
