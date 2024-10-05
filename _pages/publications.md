@@ -6,14 +6,12 @@ author_profile: true
 ---
 "𝛼−𝛽" indicates alphabetical author order.
 
-# Preprints
 
 **Platforms for Efficient and Incentive-Aware Collaboration**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
+*To appear at the ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025)  
 *Presented at the 2024 ESIF Economics and AI+ML Meeting* (ESIF-AIML 2024)  
 [[arXiv](https://arxiv.org/abs/2402.15169)]
-
-# Publications
 
 **Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interactions**  
 (𝛼−𝛽) Nivasini Ananthakrishnan, Nika Haghtalab, Chara Podimata, Kunhe Yang  
