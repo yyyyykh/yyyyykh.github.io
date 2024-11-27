@@ -8,7 +8,7 @@ author_profile: true
 
 **Leakage-Robust Bayesian Persuasion**  
 (𝛼−𝛽) Nika Haghtalab, Mingda Qiao, Kunhe Yang  
-*Preprint* (2025)  
+*Preprint* (2024)  
 [[arXiv](https://arxiv.org/abs/2411.16624)]
 
 **Platforms for Efficient and Incentive-Aware Collaboration**  
